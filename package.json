@@ -123,7 +123,7 @@
     "source-map-explorer": "^2.5.3",
     "st": "^4.0.12",
     "stylelint": "^17.16.0",
-    "stylelint-config-standard": "^40.0.0",
+    "stylelint-config-standard": "^41.0.0",
     "ts-jest": "^29.4.14",
     "ts-node": "^10.9.2",
     "tslib": "^2.8.1",
